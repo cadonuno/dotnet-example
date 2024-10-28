@@ -1,0 +1,36 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- main
+
+pool:
+  vmImage: windows-2019
+
+steps:
+- task: PowerShell@2
+  env:
+    VERACODE_API_KEY_ID: $(VERACODE_ID)
+    VERACODE_API_KEY_SECRET: $(VERACODE_SECRET)
+  inputs:
+    targetType: 'inline'
+    script: |
+      Set-ExecutionPolicy AllSigned -Scope Process -Force
+      $ProgressPreference = "silentlyContinue"; iex ((New-Object System.Net.WebClient).DownloadString('https://tools.veracode.com/veracode-cli/install.ps1'))
+      
+      veracode package -das . --output verascan
+
+- task: CmdLine@2
+  name: "VeracodePipelineScan"
+  env:
+    VERACODE_API_KEY_ID: $(VERACODE_ID)
+    VERACODE_API_KEY_SECRET: $(VERACODE_SECRET)
+  inputs:
+    script: |
+      for file in verascan/*; do
+        if [ -f "$file" ]; then
+          echo "Scanning $file ..."
+          veracode static scan "$file"
+        fi
