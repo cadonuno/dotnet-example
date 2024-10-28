@@ -1,0 +1,74 @@
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.AssemblyInfoInputs.cache
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.AssemblyInfo.cs
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.csproj.CoreCompileInputs.cache
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.RazorAssemblyInfo.cache
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.RazorAssemblyInfo.cs
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\bin\Debug\net8.0\appsettings.json
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\bin\Debug\net8.0\TestDotNet.staticwebassets.runtime.json
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\bin\Debug\net8.0\TestDotNet.deps.json
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\bin\Debug\net8.0\TestDotNet.runtimeconfig.json
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\bin\Debug\net8.0\TestDotNet.dll
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\bin\Debug\net8.0\TestDotNet.pdb
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.csproj.AssemblyReference.cache
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\staticwebassets\msbuild.TestDotNet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\staticwebassets\msbuild.build.TestDotNet.props
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TestDotNet.props
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TestDotNet.props
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\scopedcss\bundle\TestDotNet.styles.css
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\scopedcss\projectbundle\TestDotNet.bundle.scp.css
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.csproj.Up2Date
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.dll
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\refint\TestDotNet.dll
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.pdb
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.genruntimeconfig.cache
+C:\Users\rpereira\source\repos\TestDotNet\TestDotNet\obj\Debug\net8.0\ref\TestDotNet.dll
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\bin\Debug\net8.0\appsettings.json
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\bin\Debug\net8.0\TestDotNet.staticwebassets.runtime.json
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\bin\Debug\net8.0\TestDotNet.deps.json
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\bin\Debug\net8.0\TestDotNet.runtimeconfig.json
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\bin\Debug\net8.0\TestDotNet.dll
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\bin\Debug\net8.0\TestDotNet.pdb
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.csproj.AssemblyReference.cache
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.AssemblyInfoInputs.cache
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.AssemblyInfo.cs
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.csproj.CoreCompileInputs.cache
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.RazorAssemblyInfo.cache
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.RazorAssemblyInfo.cs
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\staticwebassets\msbuild.TestDotNet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\staticwebassets\msbuild.build.TestDotNet.props
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TestDotNet.props
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TestDotNet.props
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\scopedcss\bundle\TestDotNet.styles.css
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\scopedcss\projectbundle\TestDotNet.bundle.scp.css
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.csproj.Up2Date
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.dll
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\refint\TestDotNet.dll
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.pdb
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\TestDotNet.genruntimeconfig.cache
+C:\Users\rpereira\OneDrive - Veracode\Projects\TestDotNet\TestDotNet\obj\Debug\net8.0\ref\TestDotNet.dll

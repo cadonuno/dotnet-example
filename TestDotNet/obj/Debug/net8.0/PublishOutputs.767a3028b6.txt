@@ -1,0 +1,12 @@
+C:\Users\rpereira\AppData\Local\Temp\912545545729479918\appsettings.Development.json
+C:\Users\rpereira\AppData\Local\Temp\912545545729479918\appsettings.json
+C:\Users\rpereira\AppData\Local\Temp\912545545729479918\TestDotNet.dll
+C:\Users\rpereira\AppData\Local\Temp\912545545729479918\TestDotNet.deps.json
+C:\Users\rpereira\AppData\Local\Temp\912545545729479918\TestDotNet.runtimeconfig.json
+C:\Users\rpereira\AppData\Local\Temp\912545545729479918\TestDotNet.pdb
+C:\Users\rpereira\AppData\Local\Temp\912545545729479918\System.Data.SqlClient.dll
+C:\Users\rpereira\AppData\Local\Temp\912545545729479918\runtimes\win-arm64\native\sni.dll
+C:\Users\rpereira\AppData\Local\Temp\912545545729479918\runtimes\win-x64\native\sni.dll
+C:\Users\rpereira\AppData\Local\Temp\912545545729479918\runtimes\win-x86\native\sni.dll
+C:\Users\rpereira\AppData\Local\Temp\912545545729479918\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rpereira\AppData\Local\Temp\912545545729479918\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
