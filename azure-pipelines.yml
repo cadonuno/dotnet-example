@@ -21,12 +21,5 @@ steps:
       $ProgressPreference = "silentlyContinue"; iex ((New-Object System.Net.WebClient).DownloadString('https://tools.veracode.com/veracode-cli/install.ps1'))
       
       veracode package -das . --output verascan
-
-- task: CmdLine@2
-  name: "VeracodePipelineScan"
-  env:
-    VERACODE_API_KEY_ID: $(VERACODE_ID)
-    VERACODE_API_KEY_SECRET: $(VERACODE_SECRET)
-  inputs:
-    script: |
       veracode static scan verascan\veracode-auto-pack-TestDotNet-dotnet.zip
+      
