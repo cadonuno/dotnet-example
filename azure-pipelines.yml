@@ -14,9 +14,11 @@ steps:
   env:
     VERACODE_API_KEY_ID: $(VERACODE_ID)
     VERACODE_API_KEY_SECRET: $(VERACODE_SECRET)
+    PATH: 
   inputs:
     targetType: 'inline'
     script: |
+      Write-Host "##vso[task.setvariable variable=MSBuild]C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin"
       Set-ExecutionPolicy AllSigned -Scope Process -Force
       $ProgressPreference = "silentlyContinue"; iex ((New-Object System.Net.WebClient).DownloadString('https://tools.veracode.com/veracode-cli/install.ps1'))
       
